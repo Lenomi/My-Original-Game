@@ -1,0 +1,17 @@
+﻿  menu.cpp
+c:\users\win 10\source\repos\project5\project5\menu.cpp(346): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\win 10\source\repos\project5\project5\menu.cpp(753): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(754): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(766): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\win 10\source\repos\project5\project5\menu.cpp(766): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(767): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\win 10\source\repos\project5\project5\menu.cpp(767): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(772): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(773): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(778): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(779): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(784): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(785): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(790): warning C4309: '=': truncation of constant value
+c:\users\win 10\source\repos\project5\project5\menu.cpp(791): warning C4309: '=': truncation of constant value
+  Project5.vcxproj -> C:\Users\Win 10\source\repos\Project5\x64\Debug\Project5.exe

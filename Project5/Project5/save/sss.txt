@@ -1,0 +1,4 @@
+"size_W":24
+"size_H":78
+"icon_X":155
+"icon_O":157
